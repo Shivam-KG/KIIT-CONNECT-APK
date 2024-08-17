@@ -20,11 +20,7 @@ Experience the convenience and power of our university app with these key featur
 - Personalized notifications for important deadlines and events.
 - Real-time updates to keep you informed and engaged.
 
-- ![image](https://github.com/user-attachments/assets/05bcae91-3e40-45a3-b1fb-5d0ef951585e)
-
-- ![image](https://github.com/user-attachments/assets/38b425fc-b03c-47e6-b630-9b9f86e4f1f7)
-
-- ![image](https://github.com/user-attachments/assets/70d8a9a9-17b4-464a-bd50-48f10398aba6)
+- ![image](https://github.com/user-attachments/assets/38b425fc-b03c-47e6-b630-9b9f86e4f1f7)    ![image](https://github.com/user-attachments/assets/70d8a9a9-17b4-464a-bd50-48f10398aba6)
 
 - ![image](https://github.com/user-attachments/assets/7a02a99f-7f9b-4707-8633-8b83e2f39796)
 
