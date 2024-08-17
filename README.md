@@ -24,6 +24,13 @@ Experience the convenience and power of our university app with these key featur
 
 - ![image](https://github.com/user-attachments/assets/7a02a99f-7f9b-4707-8633-8b83e2f39796)    ![image](https://github.com/user-attachments/assets/b6abc2e1-529d-4b71-94b5-4def43b912bd)
 
+![WhatsApp Image 2024-08-17 at 21 38 04_50a68eca](https://github.com/user-attachments/assets/f6ff0bc2-5c10-447a-9394-4b1d5cd470b8)
+![WhatsApp Image 2024-08-17 at 21 38 02_74a3f6cd](https://github.com/user-attachments/assets/8a0febcd-c6a3-42c6-bcf5-c98770328116)
+
+
+![WhatsApp Image 2024-08-17 at 21 38 03_b68ad894](https://github.com/user-attachments/assets/067be4ca-8ec3-48ca-b86c-0d8fb46b3cf6)  ![WhatsApp Image 2024-08-17 at 21 38 03_4cf9ef75](https://github.com/user-attachments/assets/de93010f-061c-4c84-80b4-efa37953d76d)   ![WhatsApp Image 2024-08-17 at 21 38 04_e0ce0b29](https://github.com/user-attachments/assets/4738d9d9-260b-4854-b8a0-671a3eb40d0d)
+
+
 
 
 
