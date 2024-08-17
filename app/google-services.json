@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230492512183",
+    "project_id": "kiit-connect-107dc",
+    "storage_bucket": "kiit-connect-107dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230492512183:android:7660e5f850f481010c9232",
+        "android_client_info": {
+          "package_name": "com.infintyfree.shivamvskg.kiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230492512183-213jb5lsia970ro9bc1t4fdf64mfme17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHX9QLiYxvlB2l638Hv6pQbFIbZiM0oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230492512183-213jb5lsia970ro9bc1t4fdf64mfme17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
